@@ -66,8 +66,12 @@ export default function Home () {
           <h2>Tokenomics</h2>
           <div className='tokenomicsContent'>
             <div className='tokenomics-item'>
-              <h3>Airdrop Allocation (20%):</h3>
-              <p>200 million BeardCoin</p>
+              <h3>Airdrop Allocation (10%):</h3>
+              <p>100 million BeardCoin</p>
+            </div>
+            <div className='tokenomics-item'>
+              <h3>Staking Rewards Allocation (10%):</h3>
+              <p>100 million BeardCoin</p>
             </div>
             <div className='tokenomics-item'>
               <h3>DEX (Decentralized Exchange) Liquidity (50%):</h3>
