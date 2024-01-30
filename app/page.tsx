@@ -97,7 +97,7 @@ export default function Home () {
         {/* Footer */}
         <footer className='footer'>
           <div className='social-media-links'>
-            <Link href='https://twitter.com/cory_roberts16'>
+            <Link href='https://twitter.com/beardcoinmeme?s=21&t=F1oXbmT7cZzqDsFndVx6Nw'>
               <FaTwitter size={100} />
             </Link>
             <Link href='https://t.co/L5sJTZMXPC'>
